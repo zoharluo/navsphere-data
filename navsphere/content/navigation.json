@@ -1,0 +1,599 @@
+{
+  "navigationItems": [
+    {
+      "id": "1",
+      "title": "常用推荐",
+      "icon": "Star",
+      "items": [
+        {
+          "id": "item-1761597409921",
+          "enabled": true,
+          "title": "新话题 - LINUX DO",
+          "href": "https://linux.do/new",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1761597402479.png"
+        },
+        {
+          "id": "item-1761597445911",
+          "enabled": true,
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1761597440514.png"
+        },
+        {
+          "id": "item-1761597566449",
+          "enabled": true,
+          "title": "Cloudflare Dashboard | Manage Your Account",
+          "href": "https://dash.cloudflare.com/",
+          "description": "访问 dash.cloudflare.com",
+          "icon": "/assets/favicon_1761597556467.png"
+        },
+        {
+          "id": "item-1761597628758",
+          "enabled": true,
+          "title": "NewsNow | 关注",
+          "href": "https://newsnow.206688.xyz/",
+          "description": "NewsNow - 实时新闻聚合阅读器，汇集全球热点新闻，提供优雅的阅读体验",
+          "icon": "/assets/favicon_1761597624146.svg"
+        },
+        {
+          "id": "item-1761597638124",
+          "title": "zohar探针",
+          "href": "https://nz.520600.xyz/",
+          "description": "",
+          "icon": "/assets/favicon_1761597635176.svg",
+          "enabled": true
+        },
+        {
+          "id": "item-1761597649833",
+          "enabled": true,
+          "title": "(2) 主页 / X",
+          "href": "https://x.com/home",
+          "description": "",
+          "icon": "/assets/favicon_1761597645676.ico"
+        },
+        {
+          "id": "item-1761597666755",
+          "enabled": true,
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1761597657967.png"
+        },
+        {
+          "id": "item-1761597706161",
+          "title": "GitLab",
+          "href": "https://about.gitlab.com/",
+          "description": "From planning to production, bring teams together in one application. Ship secure code more efficiently to deliver value faster.",
+          "icon": "/assets/favicon_1761597701989.ico",
+          "enabled": true
+        },
+        {
+          "id": "item-1761597740338",
+          "enabled": true,
+          "title": "Img图床",
+          "href": "https://im.206688.xyz/",
+          "description": "Sanyue ImgHub - A modern file hosting platform",
+          "icon": "/assets/favicon_1761597737231.png"
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "9",
+      "title": "AI工具包",
+      "icon": "Brain",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "b41c112b-11af-416d-bf9b-d60e2e78f496",
+          "title": "国外AI",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1761597688193",
+              "title": "ChatGPT",
+              "href": "https://chatgpt.com/",
+              "description": "访问 chatgpt.com",
+              "icon": "/assets/favicon_1761597681419.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
+          "title": "国内AI",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "954e42e6-670a-49bf-b7e6-c588145831d3",
+          "title": "公益站",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
+          "title": "MCP Server",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "1761598159514",
+      "title": "博客",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
+      "id": "1761598734682",
+      "title": "云盘与存储",
+      "icon": "Database",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
+      "id": "1761598804965",
+      "title": "资源与工具",
+      "icon": "Laptop",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "022ff811-deed-445f-ad9f-f21a98913604",
+          "title": "资源",
+          "icon": "Shield",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1761599331515",
+              "enabled": true,
+              "title": "吾爱破解 - 52pojie.cn",
+              "href": "https://www.52pojie.cn/",
+              "description": "访问 www.52pojie.cn",
+              "icon": "/assets/favicon_1761599303599.png"
+            },
+            {
+              "id": "item-1761599406649",
+              "enabled": true,
+              "title": "饭太硬 | 导航",
+              "href": "https://www.xn--sss604efuw.com/",
+              "description": "饭太硬的自留地",
+              "icon": "/assets/favicon_1761599399315.jpg"
+            },
+            {
+              "id": "item-1761599422392",
+              "enabled": true,
+              "title": "Yfamily - iOS 代理工具配置与教程（Shadowrocket、小火箭、QuantumultX、Loon 等）",
+              "href": "https://whatshub.top/",
+              "description": "Yfamily 提供完整的 iOS 代理工具（Shadowrocket、小火箭、QuantumultX、QX、QuanX、Loon、Surge、Stash 等）配置、模块、插件、脚本与教程，帮助你充分利用代理工具功能。",
+              "icon": "/assets/favicon_1761599415582.png"
+            },
+            {
+              "id": "item-1761599466350",
+              "enabled": true,
+              "title": "yi.tips",
+              "href": "https://yi.tips/",
+              "description": "",
+              "icon": "/assets/favicon_1761599457114.png"
+            },
+            {
+              "id": "item-1761599478713",
+              "enabled": true,
+              "title": "TikTok 最新版在线安装",
+              "href": "https://jiesuo.tk/",
+              "description": "TikTok在线安装,TikTok下载,国际版抖音下载",
+              "icon": "/assets/favicon_1761599474500.ico"
+            },
+            {
+              "id": "item-1761599490323",
+              "enabled": true,
+              "title": "QiuQuan's Blog | 精品软件分享博客，专注于软件的绿化、精简与优化。承接各类电脑&安卓软件宣传推广、软件站与游戏站安装界面定制、浏览器推广首页定制及等相关业务。邮箱：qiuquan_cc@163.com",
+              "href": "http://www.qiuquan.cc/",
+              "description": "精品软件分享博客，专注于软件的绿化、精简与优化。",
+              "icon": "/assets/favicon_1761599486961.ico"
+            },
+            {
+              "id": "item-1761599499861",
+              "enabled": true,
+              "title": "NEXT, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "访问 next.itellyou.cn",
+              "icon": "/assets/favicon_1761599496972.png"
+            },
+            {
+              "id": "item-1761599510031",
+              "enabled": true,
+              "title": "一次性临时电子邮件 - TempMail.Plus",
+              "href": "https://tempmail.plus/zh/#!",
+              "description": "将垃圾邮件拒之门外，确保安全-只需使用一次性的临时电子邮件地址即可！ 使用TempMail.Plus保护您的个人电子邮件地址免受垃圾邮件的侵害。 您可以使用我们的TOR .onion地址来完全匿名。",
+              "icon": "/assets/favicon_1761599505600.png"
+            }
+          ]
+        },
+        {
+          "id": "de68f0d8-aea4-4420-b498-1fac95cd60c0",
+          "title": "工具",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "1761598905258",
+      "title": "Github 与开源项目",
+      "icon": "Bell",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
+      "id": "1761598082503",
+      "title": "云服务与域名",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "edaf7b02-aa5b-4dc9-9f74-81646d156eb5",
+          "title": "VPS / 云主机",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1761599674693",
+              "enabled": true,
+              "title": "RackNerd - Introducing Infrastructure Stability",
+              "href": "https://www.racknerd.com/",
+              "description": "RackNerd - Global Dedicated Servers. Introducing Infrastructure Stability",
+              "icon": "/assets/favicon_1761599663888.png"
+            },
+            {
+              "id": "item-1761599696305",
+              "enabled": true,
+              "title": "Scaleway",
+              "href": "https://www.scaleway.com/en/",
+              "description": "Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.",
+              "icon": "/assets/favicon_1761599685324.svg"
+            },
+            {
+              "id": "item-1761599707320",
+              "enabled": true,
+              "title": "DIYLink 高性價比雲伺服器_CN2 GIA雲主機_接受USDT支付",
+              "href": "https://www.diylink.net/zh-TW",
+              "description": "DIYLink，高性價比雲伺服器。有雲伺服器、雲應用等產品，已在土耳其、泰國、香港等進行全球布點。",
+              "icon": "/assets/favicon_1761599703641.png"
+            },
+            {
+              "id": "item-1761599717076",
+              "enabled": true,
+              "title": "阿里云-计算，为了无法计算的价值",
+              "href": "https://www.aliyun.com/",
+              "description": "访问 www.aliyun.com",
+              "icon": "/assets/favicon_1761599714479.png"
+            },
+            {
+              "id": "item-1761599734658",
+              "enabled": true,
+              "title": "ClawCloud | Cloud Infrastructure And Platform for Developers",
+              "href": "https://claw.cloud/",
+              "description": "High Performance, low cost VPS. User-friendly dev and deploy platform, ClawCloud helps developers to quickly build, deploy, manage and deliver projects faster to the market.",
+              "icon": "/assets/favicon_1761599731919.ico"
+            },
+            {
+              "id": "item-1761599749815",
+              "enabled": true,
+              "title": "EUserv",
+              "href": "https://www.euserv.com/en/",
+              "description": "www.euserv.com",
+              "icon": "/assets/favicon_1761599740877.png"
+            },
+            {
+              "id": "item-1761599773793",
+              "enabled": true,
+              "title": "魔戒.net",
+              "href": "https://mojie.info/#/dashboard",
+              "description": "mojie.info",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mojie.info"
+            },
+            {
+              "id": "item-1761599795818",
+              "enabled": true,
+              "title": "Ducky Cloud Infrastructure",
+              "href": "https://duckyci.com/",
+              "description": "Ducky Cloud Infrastructure",
+              "icon": "/assets/favicon_1761599782747.ico"
+            },
+            {
+              "id": "item-1761599812019",
+              "enabled": true,
+              "title": "门户首页 - wap.ac",
+              "href": "https://wap.ac/",
+              "description": "",
+              "icon": "/assets/favicon_1761599805827.png"
+            },
+            {
+              "id": "item-1761599841261",
+              "enabled": true,
+              "title": "KUXUEYUN LTD",
+              "href": "https://kuxueyun.com/",
+              "description": "访问 kuxueyun.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=kuxueyun.com"
+            },
+            {
+              "id": "item-1761599853941",
+              "enabled": true,
+              "title": "乐子云",
+              "href": "https://ovz.chushenyun.top/index.php",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ovz.chushenyun.top"
+            },
+            {
+              "id": "item-1761599888017",
+              "enabled": true,
+              "title": "哇沃主機",
+              "href": "https://wawo.wiki/",
+              "description": "访问 wawo.wiki",
+              "icon": "/assets/favicon_1761599884309.png"
+            },
+            {
+              "id": "item-1761599904862",
+              "enabled": true,
+              "title": "DuoDuoCloud",
+              "href": "https://duocloud.net/",
+              "description": "访问 duocloud.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=duocloud.net"
+            },
+            {
+              "id": "item-1761599918724",
+              "enabled": true,
+              "title": "Bot-Hosting.net",
+              "href": "https://bot-hosting.net/",
+              "description": "A host designed for Discord bots. Available and online 24/7. Free Discord bot hosting with powerful machines. Easy to setup and launches instantly.",
+              "icon": "/assets/favicon_1761599911425.png"
+            },
+            {
+              "id": "item-1761599930371",
+              "enabled": true,
+              "title": "Oracle Cloud Free Tier | Oracle",
+              "href": "https://www.oracle.com/cloud/free/",
+              "description": "Build, test and deploy applications on the Cloud with always free cloud services and get $300 in credit towards other cloud services.",
+              "icon": "/assets/favicon_1761599926108.png"
+            },
+            {
+              "id": "item-1761599942374",
+              "enabled": true,
+              "title": "Google Cloud",
+              "href": "https://cloud.google.com/",
+              "description": "借助 Google 的云计算服务，包括数据管理、混合云、多云以及 AI 和机器学习方面的服务，着力应对业务挑战。",
+              "icon": "/assets/favicon_1761599935539.ico"
+            },
+            {
+              "id": "item-1761599964072",
+              "enabled": true,
+              "title": "云计算服务 — AWS",
+              "href": "https://aws.amazon.com/cn/",
+              "description": "Amazon Web Services 提供的云计算服务可靠、可扩展且费用合理。免费加入，只需按使用量付费。",
+              "icon": "/assets/favicon_1761599957653.ico"
+            }
+          ]
+        },
+        {
+          "id": "c4debdb7-7a85-42f8-b607-0558dd5e2671",
+          "title": "域名",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1761599999814",
+              "enabled": true,
+              "title": "迈向未来 - Spaceship",
+              "href": "https://www.spaceship.com/zh/",
+              "description": "通过 Spaceship 域名、主机、邮箱及其他在线产品和解决方案，轻松上线。Spaceship 通过顶级产品、安全和隐私，将您与数字产品连接，并通过强大且快速的平台进行管理，助力您的创意。",
+              "icon": "/assets/favicon_1761599992858.svg"
+            },
+            {
+              "id": "item-1761600018792",
+              "enabled": true,
+              "title": "NameSilo",
+              "href": "https://www.namesilo.com/",
+              "description": "访问 www.namesilo.com",
+              "icon": "/assets/favicon_1761600009214.png"
+            },
+            {
+              "id": "item-1761600047079",
+              "enabled": true,
+              "title": "NIC.UA",
+              "href": "https://nic.ua/en",
+              "description": "NIC.UA",
+              "icon": "/assets/favicon_1761600036762.ico"
+            },
+            {
+              "id": "item-1761600059343",
+              "enabled": true,
+              "title": "Name.com",
+              "href": "https://www.name.com/zh-cn/",
+              "description": "name.com is your complete source for domain names, hosting and other online presence solutions.",
+              "icon": "/assets/favicon_1761600051242.png"
+            },
+            {
+              "id": "item-1761600076281",
+              "enabled": true,
+              "title": "DigitalPlat FreeDomain – NIC",
+              "href": "https://domain.digitalplat.org/",
+              "description": "Now, regardless of your project, whether you’re an individual or an organization, you can easily register and own your own *.US.KG domain name, 100% completely ...",
+              "icon": "/assets/favicon_1761600067468.png"
+            },
+            {
+              "id": "item-1761600089906",
+              "enabled": true,
+              "title": "ClouDNS",
+              "href": "https://www.cloudns.net/",
+              "description": "ClouDNS provides Free DNS, Cloud DNS, Managed DNS, GeoDNS and DDoS Protected DNS hosting with included web redirects, mail forwards and Round-Robin load balancing. Instant updates in Europe, North and South America, Asia and Australia.",
+              "icon": "/assets/favicon_1761600081444.gif"
+            },
+            {
+              "id": "item-1761600101774",
+              "enabled": true,
+              "title": "L53",
+              "href": "https://l53.net/",
+              "description": "L53 is a professional domain service provider offering third-level domain registration for individuals and businesses. Anyone can register a free domain.",
+              "icon": "/assets/favicon_1761600096001.ico"
+            },
+            {
+              "id": "item-1761600118020",
+              "enabled": true,
+              "title": "NYC.mn",
+              "href": "https://dot.nyc.mn/",
+              "description": "NYC.mn Subdomain Service",
+              "icon": "/assets/favicon_1761600112112.png"
+            },
+            {
+              "id": "item-1761600127409",
+              "enabled": true,
+              "title": "x10hosting",
+              "href": "https://x10hosting.com/",
+              "description": "Need a design? We have you covered.",
+              "icon": "/assets/favicon_1761600122250.ico"
+            },
+            {
+              "id": "item-1761600143310",
+              "enabled": true,
+              "title": "Subreg.CZ",
+              "href": "https://subreg.cz/cz/",
+              "description": "Úvodní stránka pro nepřihlášeného uživatele.",
+              "icon": "/assets/favicon_1761600136583.ico"
+            },
+            {
+              "id": "item-1761600153453",
+              "enabled": true,
+              "title": "哪煮米 - 全网域名,一站比价",
+              "href": "https://www.nazhumi.com/",
+              "description": "哪煮米是一个域名比价网站，帮助您找到合适的域名后缀和域名注册商。",
+              "icon": "/assets/favicon_1761600150281.ico"
+            },
+            {
+              "id": "item-1761600190703",
+              "enabled": true,
+              "title": "TLD-LIST",
+              "href": "https://zh-hans.tld-list.com/",
+              "description": "比较来自注册商3,488域扩展54的价格。检查域可用性，发现免费功能，并找到最佳域注册商。",
+              "icon": "/assets/favicon_1761600159068.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1735265493940",
+      "title": "开发者工具包",
+      "icon": "Box",
+      "description": "开发者工具，工具包",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
+          "title": "ICON",
+          "icon": "BookOpen",
+          "description": "站点图标",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
+          "title": "UI框架",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
+          "title": "托管平台",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
+          "title": "画图工具",
+          "icon": "Book",
+          "description": "架构图，流程图",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
+          "title": "AI编程工具",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "1735433560958",
+      "title": "自媒体工具包",
+      "icon": "Video",
+      "description": "自媒体工具包",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
+          "title": "国内平台",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
+          "title": "公众号排版",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
+          "title": "录屏工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -216,11 +216,11 @@
             },
             {
               "id": "item-1761599490323",
-              "enabled": true,
-              "title": "QiuQuan's Blog | 精品软件分享博客，专注于软件的绿化、精简与优化。承接各类电脑&安卓软件宣传推广、软件站与游戏站安装界面定制、浏览器推广首页定制及等相关业务。邮箱：qiuquan_cc@163.com",
+              "title": "QiuQuan's Blog",
               "href": "http://www.qiuquan.cc/",
               "description": "精品软件分享博客，专注于软件的绿化、精简与优化。",
-              "icon": "/assets/favicon_1761599486961.ico"
+              "icon": "/assets/favicon_1761599486961.ico",
+              "enabled": true
             },
             {
               "id": "item-1761599499861",

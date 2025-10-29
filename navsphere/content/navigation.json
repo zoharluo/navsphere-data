@@ -76,6 +76,14 @@
           "href": "https://im.206688.xyz/",
           "description": "Sanyue ImgHub - A modern file hosting platform",
           "icon": "/assets/favicon_1761597737231.png"
+        },
+        {
+          "id": "item-1761763144490",
+          "enabled": true,
+          "title": "tianyaxiang/navsphere-extension: NavSphere chrome插件，快速添加网站到导航站",
+          "href": "https://github.com/tianyaxiang/navsphere-extension",
+          "description": "NavSphere chrome插件，快速添加网站到导航站. Contribute to tianyaxiang/navsphere-extension development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1761763130922.png"
         }
       ],
       "subCategories": [],
